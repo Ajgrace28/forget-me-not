@@ -1,0 +1,11 @@
+##Streamlit CSS configuration##
+[theme]
+primaryColor="#AEC8F4"
+backgroundColor="#FCF5E8"
+secondaryBackgroundColor="#bb8eca"
+textColor="#080808"
+borderColor="#F1DFF7"
+
+[theme.sidebar]
+backgroundColor="#e8cef0"
+
